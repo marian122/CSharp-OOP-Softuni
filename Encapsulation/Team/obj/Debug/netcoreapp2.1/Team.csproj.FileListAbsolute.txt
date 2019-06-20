@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Encapsulation\Team\bin\Debug\netcoreapp2.1\Team.deps.json
+C:\Users\malek\source\repos\Encapsulation\Team\bin\Debug\netcoreapp2.1\Team.runtimeconfig.json
+C:\Users\malek\source\repos\Encapsulation\Team\bin\Debug\netcoreapp2.1\Team.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Encapsulation\Team\bin\Debug\netcoreapp2.1\Team.dll
+C:\Users\malek\source\repos\Encapsulation\Team\bin\Debug\netcoreapp2.1\Team.pdb
+C:\Users\malek\source\repos\Encapsulation\Team\obj\Debug\netcoreapp2.1\Team.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Encapsulation\Team\obj\Debug\netcoreapp2.1\Team.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Encapsulation\Team\obj\Debug\netcoreapp2.1\Team.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Encapsulation\Team\obj\Debug\netcoreapp2.1\Team.AssemblyInfo.cs
+C:\Users\malek\source\repos\Encapsulation\Team\obj\Debug\netcoreapp2.1\Team.dll
+C:\Users\malek\source\repos\Encapsulation\Team\obj\Debug\netcoreapp2.1\Team.pdb

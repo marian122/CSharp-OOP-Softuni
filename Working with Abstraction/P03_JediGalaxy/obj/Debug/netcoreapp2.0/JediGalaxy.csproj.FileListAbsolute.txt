@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Working with Abstraction\P03_JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.deps.json
+C:\Users\malek\source\repos\Working with Abstraction\P03_JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.runtimeconfig.json
+C:\Users\malek\source\repos\Working with Abstraction\P03_JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Working with Abstraction\P03_JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.dll
+C:\Users\malek\source\repos\Working with Abstraction\P03_JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.pdb
+C:\Users\malek\source\repos\Working with Abstraction\P03_JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Working with Abstraction\P03_JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Working with Abstraction\P03_JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.AssemblyInfo.cs
+C:\Users\malek\source\repos\Working with Abstraction\P03_JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.dll
+C:\Users\malek\source\repos\Working with Abstraction\P03_JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.pdb
+C:\Users\malek\source\repos\Working with Abstraction\P03_JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.csprojAssemblyReference.cache

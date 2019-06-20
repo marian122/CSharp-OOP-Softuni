@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\ExamPrepOOP\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.deps.json
+C:\Users\malek\source\repos\ExamPrepOOP\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.runtimeconfig.json
+C:\Users\malek\source\repos\ExamPrepOOP\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.runtimeconfig.dev.json
+C:\Users\malek\source\repos\ExamPrepOOP\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.dll
+C:\Users\malek\source\repos\ExamPrepOOP\CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.pdb
+C:\Users\malek\source\repos\ExamPrepOOP\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\ExamPrepOOP\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\ExamPrepOOP\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.AssemblyInfo.cs
+C:\Users\malek\source\repos\ExamPrepOOP\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.dll
+C:\Users\malek\source\repos\ExamPrepOOP\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.pdb
+C:\Users\malek\source\repos\ExamPrepOOP\CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.csprojAssemblyReference.cache

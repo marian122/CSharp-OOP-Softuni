@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Polymorphism\Polymorphism\bin\Debug\netcoreapp2.1\MathOperations.deps.json
+C:\Users\malek\source\repos\Polymorphism\Polymorphism\bin\Debug\netcoreapp2.1\MathOperations.runtimeconfig.json
+C:\Users\malek\source\repos\Polymorphism\Polymorphism\bin\Debug\netcoreapp2.1\MathOperations.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Polymorphism\Polymorphism\bin\Debug\netcoreapp2.1\MathOperations.dll
+C:\Users\malek\source\repos\Polymorphism\Polymorphism\bin\Debug\netcoreapp2.1\MathOperations.pdb
+C:\Users\malek\source\repos\Polymorphism\Polymorphism\obj\Debug\netcoreapp2.1\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Polymorphism\Polymorphism\obj\Debug\netcoreapp2.1\MathOperations.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Polymorphism\Polymorphism\obj\Debug\netcoreapp2.1\MathOperations.AssemblyInfo.cs
+C:\Users\malek\source\repos\Polymorphism\Polymorphism\obj\Debug\netcoreapp2.1\MathOperations.dll
+C:\Users\malek\source\repos\Polymorphism\Polymorphism\obj\Debug\netcoreapp2.1\MathOperations.pdb
+C:\Users\malek\source\repos\Polymorphism\Polymorphism\obj\Debug\netcoreapp2.1\MathOperations.csprojAssemblyReference.cache

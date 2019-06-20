@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Working with Abstraction\P06_Sneaking\bin\Debug\netcoreapp2.0\Sneaking.deps.json
+C:\Users\malek\source\repos\Working with Abstraction\P06_Sneaking\bin\Debug\netcoreapp2.0\Sneaking.runtimeconfig.json
+C:\Users\malek\source\repos\Working with Abstraction\P06_Sneaking\bin\Debug\netcoreapp2.0\Sneaking.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Working with Abstraction\P06_Sneaking\bin\Debug\netcoreapp2.0\Sneaking.dll
+C:\Users\malek\source\repos\Working with Abstraction\P06_Sneaking\bin\Debug\netcoreapp2.0\Sneaking.pdb
+C:\Users\malek\source\repos\Working with Abstraction\P06_Sneaking\obj\Debug\netcoreapp2.0\Sneaking.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Working with Abstraction\P06_Sneaking\obj\Debug\netcoreapp2.0\Sneaking.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Working with Abstraction\P06_Sneaking\obj\Debug\netcoreapp2.0\Sneaking.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Working with Abstraction\P06_Sneaking\obj\Debug\netcoreapp2.0\Sneaking.AssemblyInfo.cs
+C:\Users\malek\source\repos\Working with Abstraction\P06_Sneaking\obj\Debug\netcoreapp2.0\Sneaking.dll
+C:\Users\malek\source\repos\Working with Abstraction\P06_Sneaking\obj\Debug\netcoreapp2.0\Sneaking.pdb

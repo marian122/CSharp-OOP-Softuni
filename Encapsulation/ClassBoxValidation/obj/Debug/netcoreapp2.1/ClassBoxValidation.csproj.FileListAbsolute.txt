@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Encapsulation\ClassBoxValidation\bin\Debug\netcoreapp2.1\ClassBoxValidation.deps.json
+C:\Users\malek\source\repos\Encapsulation\ClassBoxValidation\bin\Debug\netcoreapp2.1\ClassBoxValidation.runtimeconfig.json
+C:\Users\malek\source\repos\Encapsulation\ClassBoxValidation\bin\Debug\netcoreapp2.1\ClassBoxValidation.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Encapsulation\ClassBoxValidation\bin\Debug\netcoreapp2.1\ClassBoxValidation.dll
+C:\Users\malek\source\repos\Encapsulation\ClassBoxValidation\bin\Debug\netcoreapp2.1\ClassBoxValidation.pdb
+C:\Users\malek\source\repos\Encapsulation\ClassBoxValidation\obj\Debug\netcoreapp2.1\ClassBoxValidation.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Encapsulation\ClassBoxValidation\obj\Debug\netcoreapp2.1\ClassBoxValidation.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Encapsulation\ClassBoxValidation\obj\Debug\netcoreapp2.1\ClassBoxValidation.AssemblyInfo.cs
+C:\Users\malek\source\repos\Encapsulation\ClassBoxValidation\obj\Debug\netcoreapp2.1\ClassBoxValidation.dll
+C:\Users\malek\source\repos\Encapsulation\ClassBoxValidation\obj\Debug\netcoreapp2.1\ClassBoxValidation.pdb
+C:\Users\malek\source\repos\Encapsulation\ClassBoxValidation\obj\Debug\netcoreapp2.1\ClassBoxValidation.csprojAssemblyReference.cache

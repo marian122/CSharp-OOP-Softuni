@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Reflection\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.deps.json
+C:\Users\malek\source\repos\Reflection\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.runtimeconfig.json
+C:\Users\malek\source\repos\Reflection\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Reflection\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.dll
+C:\Users\malek\source\repos\Reflection\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.pdb
+C:\Users\malek\source\repos\Reflection\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Reflection\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Reflection\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.AssemblyInfo.cs
+C:\Users\malek\source\repos\Reflection\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.dll
+C:\Users\malek\source\repos\Reflection\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.pdb

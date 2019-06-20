@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Encapsulation\SortPersonsByNameAndAge - Lab\bin\Debug\netcoreapp2.1\SortPersonsByNameAndAge - Lab.deps.json
+C:\Users\malek\source\repos\Encapsulation\SortPersonsByNameAndAge - Lab\bin\Debug\netcoreapp2.1\SortPersonsByNameAndAge - Lab.runtimeconfig.json
+C:\Users\malek\source\repos\Encapsulation\SortPersonsByNameAndAge - Lab\bin\Debug\netcoreapp2.1\SortPersonsByNameAndAge - Lab.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Encapsulation\SortPersonsByNameAndAge - Lab\bin\Debug\netcoreapp2.1\SortPersonsByNameAndAge - Lab.dll
+C:\Users\malek\source\repos\Encapsulation\SortPersonsByNameAndAge - Lab\bin\Debug\netcoreapp2.1\SortPersonsByNameAndAge - Lab.pdb
+C:\Users\malek\source\repos\Encapsulation\SortPersonsByNameAndAge - Lab\obj\Debug\netcoreapp2.1\SortPersonsByNameAndAge - Lab.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Encapsulation\SortPersonsByNameAndAge - Lab\obj\Debug\netcoreapp2.1\SortPersonsByNameAndAge - Lab.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Encapsulation\SortPersonsByNameAndAge - Lab\obj\Debug\netcoreapp2.1\SortPersonsByNameAndAge - Lab.AssemblyInfo.cs
+C:\Users\malek\source\repos\Encapsulation\SortPersonsByNameAndAge - Lab\obj\Debug\netcoreapp2.1\SortPersonsByNameAndAge - Lab.dll
+C:\Users\malek\source\repos\Encapsulation\SortPersonsByNameAndAge - Lab\obj\Debug\netcoreapp2.1\SortPersonsByNameAndAge - Lab.pdb
+C:\Users\malek\source\repos\Encapsulation\SortPersonsByNameAndAge - Lab\obj\Debug\netcoreapp2.1\SortPersonsByNameAndAge - Lab.csprojAssemblyReference.cache

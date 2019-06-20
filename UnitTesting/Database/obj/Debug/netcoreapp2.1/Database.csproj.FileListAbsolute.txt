@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\UnitTesting\Database\bin\Debug\netcoreapp2.1\Database.deps.json
+C:\Users\malek\source\repos\UnitTesting\Database\bin\Debug\netcoreapp2.1\Database.runtimeconfig.json
+C:\Users\malek\source\repos\UnitTesting\Database\bin\Debug\netcoreapp2.1\Database.runtimeconfig.dev.json
+C:\Users\malek\source\repos\UnitTesting\Database\bin\Debug\netcoreapp2.1\Database.dll
+C:\Users\malek\source\repos\UnitTesting\Database\bin\Debug\netcoreapp2.1\Database.pdb
+C:\Users\malek\source\repos\UnitTesting\Database\obj\Debug\netcoreapp2.1\Database.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\UnitTesting\Database\obj\Debug\netcoreapp2.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\UnitTesting\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\UnitTesting\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
+C:\Users\malek\source\repos\UnitTesting\Database\obj\Debug\netcoreapp2.1\Database.dll
+C:\Users\malek\source\repos\UnitTesting\Database\obj\Debug\netcoreapp2.1\Database.pdb

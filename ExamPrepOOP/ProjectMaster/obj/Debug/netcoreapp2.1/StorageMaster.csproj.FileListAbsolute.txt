@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\ExamPrepOOP\ProjectMaster\obj\Debug\netcoreapp2.1\StorageMaster.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\ExamPrepOOP\ProjectMaster\obj\Debug\netcoreapp2.1\StorageMaster.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\ExamPrepOOP\ProjectMaster\obj\Debug\netcoreapp2.1\StorageMaster.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\ExamPrepOOP\ProjectMaster\obj\Debug\netcoreapp2.1\StorageMaster.AssemblyInfo.cs
+C:\Users\malek\source\repos\ExamPrepOOP\ProjectMaster\bin\Debug\netcoreapp2.1\StorageMaster.deps.json
+C:\Users\malek\source\repos\ExamPrepOOP\ProjectMaster\bin\Debug\netcoreapp2.1\StorageMaster.runtimeconfig.json
+C:\Users\malek\source\repos\ExamPrepOOP\ProjectMaster\bin\Debug\netcoreapp2.1\StorageMaster.runtimeconfig.dev.json
+C:\Users\malek\source\repos\ExamPrepOOP\ProjectMaster\bin\Debug\netcoreapp2.1\StorageMaster.dll
+C:\Users\malek\source\repos\ExamPrepOOP\ProjectMaster\bin\Debug\netcoreapp2.1\StorageMaster.pdb
+C:\Users\malek\source\repos\ExamPrepOOP\ProjectMaster\obj\Debug\netcoreapp2.1\StorageMaster.dll
+C:\Users\malek\source\repos\ExamPrepOOP\ProjectMaster\obj\Debug\netcoreapp2.1\StorageMaster.pdb

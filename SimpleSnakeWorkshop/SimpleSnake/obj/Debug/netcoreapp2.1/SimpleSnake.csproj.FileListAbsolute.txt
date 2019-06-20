@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\SimpleSnakeWorkshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.deps.json
+C:\Users\malek\source\repos\SimpleSnakeWorkshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.json
+C:\Users\malek\source\repos\SimpleSnakeWorkshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.dev.json
+C:\Users\malek\source\repos\SimpleSnakeWorkshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\malek\source\repos\SimpleSnakeWorkshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.pdb
+C:\Users\malek\source\repos\SimpleSnakeWorkshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\SimpleSnakeWorkshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\SimpleSnakeWorkshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\SimpleSnakeWorkshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
+C:\Users\malek\source\repos\SimpleSnakeWorkshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\malek\source\repos\SimpleSnakeWorkshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.pdb

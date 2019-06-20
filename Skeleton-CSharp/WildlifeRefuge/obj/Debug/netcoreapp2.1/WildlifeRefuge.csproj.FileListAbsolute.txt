@@ -1,0 +1,11 @@
+C:\Users\malek\Desktop\Skeleton-CSharp\WildlifeRefuge\bin\Debug\netcoreapp2.1\WildlifeRefuge.deps.json
+C:\Users\malek\Desktop\Skeleton-CSharp\WildlifeRefuge\bin\Debug\netcoreapp2.1\WildlifeRefuge.runtimeconfig.json
+C:\Users\malek\Desktop\Skeleton-CSharp\WildlifeRefuge\bin\Debug\netcoreapp2.1\WildlifeRefuge.runtimeconfig.dev.json
+C:\Users\malek\Desktop\Skeleton-CSharp\WildlifeRefuge\bin\Debug\netcoreapp2.1\WildlifeRefuge.dll
+C:\Users\malek\Desktop\Skeleton-CSharp\WildlifeRefuge\bin\Debug\netcoreapp2.1\WildlifeRefuge.pdb
+C:\Users\malek\Desktop\Skeleton-CSharp\WildlifeRefuge\obj\Debug\netcoreapp2.1\WildlifeRefuge.csprojAssemblyReference.cache
+C:\Users\malek\Desktop\Skeleton-CSharp\WildlifeRefuge\obj\Debug\netcoreapp2.1\WildlifeRefuge.csproj.CoreCompileInputs.cache
+C:\Users\malek\Desktop\Skeleton-CSharp\WildlifeRefuge\obj\Debug\netcoreapp2.1\WildlifeRefuge.AssemblyInfoInputs.cache
+C:\Users\malek\Desktop\Skeleton-CSharp\WildlifeRefuge\obj\Debug\netcoreapp2.1\WildlifeRefuge.AssemblyInfo.cs
+C:\Users\malek\Desktop\Skeleton-CSharp\WildlifeRefuge\obj\Debug\netcoreapp2.1\WildlifeRefuge.dll
+C:\Users\malek\Desktop\Skeleton-CSharp\WildlifeRefuge\obj\Debug\netcoreapp2.1\WildlifeRefuge.pdb

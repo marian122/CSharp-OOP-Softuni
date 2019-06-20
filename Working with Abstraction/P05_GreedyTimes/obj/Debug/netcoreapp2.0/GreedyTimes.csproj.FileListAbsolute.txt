@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Working with Abstraction\P05_GreedyTimes\bin\Debug\netcoreapp2.0\GreedyTimes.deps.json
+C:\Users\malek\source\repos\Working with Abstraction\P05_GreedyTimes\bin\Debug\netcoreapp2.0\GreedyTimes.runtimeconfig.json
+C:\Users\malek\source\repos\Working with Abstraction\P05_GreedyTimes\bin\Debug\netcoreapp2.0\GreedyTimes.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Working with Abstraction\P05_GreedyTimes\bin\Debug\netcoreapp2.0\GreedyTimes.dll
+C:\Users\malek\source\repos\Working with Abstraction\P05_GreedyTimes\bin\Debug\netcoreapp2.0\GreedyTimes.pdb
+C:\Users\malek\source\repos\Working with Abstraction\P05_GreedyTimes\obj\Debug\netcoreapp2.0\GreedyTimes.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Working with Abstraction\P05_GreedyTimes\obj\Debug\netcoreapp2.0\GreedyTimes.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Working with Abstraction\P05_GreedyTimes\obj\Debug\netcoreapp2.0\GreedyTimes.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Working with Abstraction\P05_GreedyTimes\obj\Debug\netcoreapp2.0\GreedyTimes.AssemblyInfo.cs
+C:\Users\malek\source\repos\Working with Abstraction\P05_GreedyTimes\obj\Debug\netcoreapp2.0\GreedyTimes.dll
+C:\Users\malek\source\repos\Working with Abstraction\P05_GreedyTimes\obj\Debug\netcoreapp2.0\GreedyTimes.pdb

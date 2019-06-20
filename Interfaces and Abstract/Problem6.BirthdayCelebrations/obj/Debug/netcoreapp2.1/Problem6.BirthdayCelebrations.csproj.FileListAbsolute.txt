@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem6.BirthdayCelebrations\bin\Debug\netcoreapp2.1\Problem6.BirthdayCelebrations.deps.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem6.BirthdayCelebrations\bin\Debug\netcoreapp2.1\Problem6.BirthdayCelebrations.runtimeconfig.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem6.BirthdayCelebrations\bin\Debug\netcoreapp2.1\Problem6.BirthdayCelebrations.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem6.BirthdayCelebrations\bin\Debug\netcoreapp2.1\Problem6.BirthdayCelebrations.dll
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem6.BirthdayCelebrations\bin\Debug\netcoreapp2.1\Problem6.BirthdayCelebrations.pdb
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem6.BirthdayCelebrations\obj\Debug\netcoreapp2.1\Problem6.BirthdayCelebrations.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem6.BirthdayCelebrations\obj\Debug\netcoreapp2.1\Problem6.BirthdayCelebrations.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem6.BirthdayCelebrations\obj\Debug\netcoreapp2.1\Problem6.BirthdayCelebrations.AssemblyInfo.cs
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem6.BirthdayCelebrations\obj\Debug\netcoreapp2.1\Problem6.BirthdayCelebrations.dll
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem6.BirthdayCelebrations\obj\Debug\netcoreapp2.1\Problem6.BirthdayCelebrations.pdb

@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Solid\LoggerLibrary\bin\Debug\netcoreapp2.1\LoggerLibrary.deps.json
+C:\Users\malek\source\repos\Solid\LoggerLibrary\bin\Debug\netcoreapp2.1\LoggerLibrary.runtimeconfig.json
+C:\Users\malek\source\repos\Solid\LoggerLibrary\bin\Debug\netcoreapp2.1\LoggerLibrary.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Solid\LoggerLibrary\bin\Debug\netcoreapp2.1\LoggerLibrary.dll
+C:\Users\malek\source\repos\Solid\LoggerLibrary\bin\Debug\netcoreapp2.1\LoggerLibrary.pdb
+C:\Users\malek\source\repos\Solid\LoggerLibrary\obj\Debug\netcoreapp2.1\LoggerLibrary.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Solid\LoggerLibrary\obj\Debug\netcoreapp2.1\LoggerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Solid\LoggerLibrary\obj\Debug\netcoreapp2.1\LoggerLibrary.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Solid\LoggerLibrary\obj\Debug\netcoreapp2.1\LoggerLibrary.AssemblyInfo.cs
+C:\Users\malek\source\repos\Solid\LoggerLibrary\obj\Debug\netcoreapp2.1\LoggerLibrary.dll
+C:\Users\malek\source\repos\Solid\LoggerLibrary\obj\Debug\netcoreapp2.1\LoggerLibrary.pdb

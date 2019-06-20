@@ -1,0 +1,11 @@
+C:\Users\malek\Desktop\CarTripTesting\CarTrip\bin\Debug\netcoreapp2.0\CarTrip.deps.json
+C:\Users\malek\Desktop\CarTripTesting\CarTrip\bin\Debug\netcoreapp2.0\CarTrip.runtimeconfig.json
+C:\Users\malek\Desktop\CarTripTesting\CarTrip\bin\Debug\netcoreapp2.0\CarTrip.runtimeconfig.dev.json
+C:\Users\malek\Desktop\CarTripTesting\CarTrip\bin\Debug\netcoreapp2.0\CarTrip.dll
+C:\Users\malek\Desktop\CarTripTesting\CarTrip\bin\Debug\netcoreapp2.0\CarTrip.pdb
+C:\Users\malek\Desktop\CarTripTesting\CarTrip\obj\Debug\netcoreapp2.0\CarTrip.csprojAssemblyReference.cache
+C:\Users\malek\Desktop\CarTripTesting\CarTrip\obj\Debug\netcoreapp2.0\CarTrip.csproj.CoreCompileInputs.cache
+C:\Users\malek\Desktop\CarTripTesting\CarTrip\obj\Debug\netcoreapp2.0\CarTrip.AssemblyInfoInputs.cache
+C:\Users\malek\Desktop\CarTripTesting\CarTrip\obj\Debug\netcoreapp2.0\CarTrip.AssemblyInfo.cs
+C:\Users\malek\Desktop\CarTripTesting\CarTrip\obj\Debug\netcoreapp2.0\CarTrip.dll
+C:\Users\malek\Desktop\CarTripTesting\CarTrip\obj\Debug\netcoreapp2.0\CarTrip.pdb

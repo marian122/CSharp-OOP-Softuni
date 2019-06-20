@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+    
+        <!--
+        Customize the content security policy in the meta tag below as needed. Add 'unsafe-inline' to default-src to enable inline JavaScript.
+        For details, see http://go.microsoft.com/fwlink/?LinkID=617521
+    -->
+        <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: http://api.openweathermap.org https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
+        
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+        <link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css" />
+        <link rel="stylesheet" type="text/css" href="css/index.css">
+        <title>FindWeather</title>
+    </head>
+<body>
+    <div data-role="page" id="weather-page">
+        <div data-role="header" class="header">
+            <h1 id="app-title">Упражнение 1</h1>
+            <!-- <a href="/" class="ui-btn ui-btn-left ui-btn-corner-all uiicon-home ui-btn-icon-notext" rel="external">Home</a>-->
+        </div>
+        <div role="main" class="ui-content">
+            <form>
+                <label for="city-name">Въведете име на град:</label>
+                <input id="city-name-input" name="city-code" placeholder="например. Sofia" required />
+                <button id="get-weather-btn" data-role="button" data-icon="search">            Покажи времето      </button>
+            </form>
+            <ul id="weather-data" data-role="listview" data-inset="true" cl
+                ass="ui-listview ui-listview-inset ui-corner-all ui-shadow not-displayed">
+                <li data-role="list-divider" id="title" class="ui-li-divider ui-bar-a"></li>
+                <li>
+                    <span id="summary">
+                        <span id="temperature"></span> F <im g src="" />
+                    </span>
+                </li>
+                <li>Вятър: <span id="wind"></span> възела</li>
+                <li>Влажност: <span id="humidity"></span> %</li>
+                <li>Видимост: <span id="visibility"></span></li>
+                <li>Изгрев: <span id="sunrise"></span></li>
+                <li>Залез: <span id="sunset"></span></li>
+                <li>:Мин.Температура <span id="temp_min"></span></li>
+                <li>:Макс.Температура <span id="temp_max"></span></li>
+            </ul>input
+            <div id="error-msg"class="not-displayed">
+            </div>
+        </div>
+        <footer data-role="footer" data-position="fixed">
+            <h5>
+                Упражнение 1. Модели за изграждане на мобилни приложения.</h5>
+        </footer>
+   
+    </div>
+    <script type="text/javascript" src="cordova.js"></script>
+    <script type="text/javascript" src="scripts/platformOverrides.js"></script>
+    <script type="text/javascript" src="scripts/index.js"></script>
+    <script src="scripts/jquery-3.0.0.min.js"></script>
+    <script src="scripts/jquery.mobile-1.4.5.min.js"></script>
+    <script src="scripts/Weather.js"></script>
+</body>
+
+</html>

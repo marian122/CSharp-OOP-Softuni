@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "FindWeather", "FindWeather\FindWeather.jsproj", "{94CF917F-36B2-4580-B2B6-14A5F45D3D63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Android = Debug|Android
+		Debug|iOS = Debug|iOS
+		Debug|Windows-ARM = Debug|Windows-ARM
+		Debug|Windows-x64 = Debug|Windows-x64
+		Debug|Windows-x86 = Debug|Windows-x86
+		Release|Android = Release|Android
+		Release|iOS = Release|iOS
+		Release|Windows-ARM = Release|Windows-ARM
+		Release|Windows-x64 = Release|Windows-x64
+		Release|Windows-x86 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Debug|Android.ActiveCfg = Debug|Any CPU
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Debug|Android.Build.0 = Debug|Any CPU
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Debug|iOS.ActiveCfg = Debug|Any CPU
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Debug|iOS.Build.0 = Debug|Any CPU
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Debug|Windows-ARM.ActiveCfg = Debug|Any CPU
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Debug|Windows-ARM.Build.0 = Debug|Any CPU
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Debug|Windows-x64.ActiveCfg = Debug|Any CPU
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Debug|Windows-x64.Build.0 = Debug|Any CPU
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Debug|Windows-x86.ActiveCfg = Debug|Any CPU
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Debug|Windows-x86.Build.0 = Debug|Any CPU
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Release|Android.ActiveCfg = Release|Any CPU
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Release|Android.Build.0 = Release|Any CPU
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Release|iOS.ActiveCfg = Release|Any CPU
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Release|iOS.Build.0 = Release|Any CPU
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Release|Windows-ARM.ActiveCfg = Release|Any CPU
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Release|Windows-ARM.Build.0 = Release|Any CPU
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Release|Windows-x64.ActiveCfg = Release|Any CPU
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Release|Windows-x64.Build.0 = Release|Any CPU
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Release|Windows-x86.ActiveCfg = Release|Any CPU
+		{94CF917F-36B2-4580-B2B6-14A5F45D3D63}.Release|Windows-x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B6C00E6-A25A-45A3-B20D-D4B64EAE7E3C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem4.Telephony\bin\Debug\netcoreapp2.1\Problem4.Telephony.deps.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem4.Telephony\bin\Debug\netcoreapp2.1\Problem4.Telephony.runtimeconfig.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem4.Telephony\bin\Debug\netcoreapp2.1\Problem4.Telephony.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem4.Telephony\bin\Debug\netcoreapp2.1\Problem4.Telephony.dll
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem4.Telephony\bin\Debug\netcoreapp2.1\Problem4.Telephony.pdb
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem4.Telephony\obj\Debug\netcoreapp2.1\Problem4.Telephony.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem4.Telephony\obj\Debug\netcoreapp2.1\Problem4.Telephony.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem4.Telephony\obj\Debug\netcoreapp2.1\Problem4.Telephony.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem4.Telephony\obj\Debug\netcoreapp2.1\Problem4.Telephony.AssemblyInfo.cs
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem4.Telephony\obj\Debug\netcoreapp2.1\Problem4.Telephony.dll
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem4.Telephony\obj\Debug\netcoreapp2.1\Problem4.Telephony.pdb

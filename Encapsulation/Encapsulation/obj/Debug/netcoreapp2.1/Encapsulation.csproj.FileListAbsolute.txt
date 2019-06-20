@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.1\Encapsulation.deps.json
+C:\Users\malek\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.1\Encapsulation.runtimeconfig.json
+C:\Users\malek\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.1\Encapsulation.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.1\Encapsulation.dll
+C:\Users\malek\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.1\Encapsulation.pdb
+C:\Users\malek\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.AssemblyInfo.cs
+C:\Users\malek\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.dll
+C:\Users\malek\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.pdb

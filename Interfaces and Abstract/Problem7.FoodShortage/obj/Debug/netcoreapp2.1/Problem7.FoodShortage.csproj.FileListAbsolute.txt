@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem7.FoodShortage\bin\Debug\netcoreapp2.1\Problem7.FoodShortage.deps.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem7.FoodShortage\bin\Debug\netcoreapp2.1\Problem7.FoodShortage.runtimeconfig.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem7.FoodShortage\bin\Debug\netcoreapp2.1\Problem7.FoodShortage.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem7.FoodShortage\bin\Debug\netcoreapp2.1\Problem7.FoodShortage.dll
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem7.FoodShortage\bin\Debug\netcoreapp2.1\Problem7.FoodShortage.pdb
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem7.FoodShortage\obj\Debug\netcoreapp2.1\Problem7.FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem7.FoodShortage\obj\Debug\netcoreapp2.1\Problem7.FoodShortage.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem7.FoodShortage\obj\Debug\netcoreapp2.1\Problem7.FoodShortage.AssemblyInfo.cs
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem7.FoodShortage\obj\Debug\netcoreapp2.1\Problem7.FoodShortage.dll
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem7.FoodShortage\obj\Debug\netcoreapp2.1\Problem7.FoodShortage.pdb

@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Working with Abstraction\P01_RawData\bin\Debug\netcoreapp2.0\RawData.deps.json
+C:\Users\malek\source\repos\Working with Abstraction\P01_RawData\bin\Debug\netcoreapp2.0\RawData.runtimeconfig.json
+C:\Users\malek\source\repos\Working with Abstraction\P01_RawData\bin\Debug\netcoreapp2.0\RawData.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Working with Abstraction\P01_RawData\bin\Debug\netcoreapp2.0\RawData.dll
+C:\Users\malek\source\repos\Working with Abstraction\P01_RawData\bin\Debug\netcoreapp2.0\RawData.pdb
+C:\Users\malek\source\repos\Working with Abstraction\P01_RawData\obj\Debug\netcoreapp2.0\RawData.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Working with Abstraction\P01_RawData\obj\Debug\netcoreapp2.0\RawData.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Working with Abstraction\P01_RawData\obj\Debug\netcoreapp2.0\RawData.AssemblyInfo.cs
+C:\Users\malek\source\repos\Working with Abstraction\P01_RawData\obj\Debug\netcoreapp2.0\RawData.dll
+C:\Users\malek\source\repos\Working with Abstraction\P01_RawData\obj\Debug\netcoreapp2.0\RawData.pdb
+C:\Users\malek\source\repos\Working with Abstraction\P01_RawData\obj\Debug\netcoreapp2.0\RawData.csprojAssemblyReference.cache

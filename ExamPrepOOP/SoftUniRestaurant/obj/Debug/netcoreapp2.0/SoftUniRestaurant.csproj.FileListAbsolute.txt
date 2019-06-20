@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\ExamPrepOOP\SoftUniRestaurant\bin\Debug\netcoreapp2.0\SoftUniRestaurant.deps.json
+C:\Users\malek\source\repos\ExamPrepOOP\SoftUniRestaurant\bin\Debug\netcoreapp2.0\SoftUniRestaurant.runtimeconfig.json
+C:\Users\malek\source\repos\ExamPrepOOP\SoftUniRestaurant\bin\Debug\netcoreapp2.0\SoftUniRestaurant.runtimeconfig.dev.json
+C:\Users\malek\source\repos\ExamPrepOOP\SoftUniRestaurant\bin\Debug\netcoreapp2.0\SoftUniRestaurant.dll
+C:\Users\malek\source\repos\ExamPrepOOP\SoftUniRestaurant\bin\Debug\netcoreapp2.0\SoftUniRestaurant.pdb
+C:\Users\malek\source\repos\ExamPrepOOP\SoftUniRestaurant\obj\Debug\netcoreapp2.0\SoftUniRestaurant.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\ExamPrepOOP\SoftUniRestaurant\obj\Debug\netcoreapp2.0\SoftUniRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\ExamPrepOOP\SoftUniRestaurant\obj\Debug\netcoreapp2.0\SoftUniRestaurant.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\ExamPrepOOP\SoftUniRestaurant\obj\Debug\netcoreapp2.0\SoftUniRestaurant.AssemblyInfo.cs
+C:\Users\malek\source\repos\ExamPrepOOP\SoftUniRestaurant\obj\Debug\netcoreapp2.0\SoftUniRestaurant.dll
+C:\Users\malek\source\repos\ExamPrepOOP\SoftUniRestaurant\obj\Debug\netcoreapp2.0\SoftUniRestaurant.pdb

@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 2. Multiple Implementation\bin\Debug\netcoreapp2.1\Problem 2. Multiple Implementation.deps.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 2. Multiple Implementation\bin\Debug\netcoreapp2.1\Problem 2. Multiple Implementation.runtimeconfig.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 2. Multiple Implementation\bin\Debug\netcoreapp2.1\Problem 2. Multiple Implementation.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 2. Multiple Implementation\bin\Debug\netcoreapp2.1\Problem 2. Multiple Implementation.dll
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 2. Multiple Implementation\bin\Debug\netcoreapp2.1\Problem 2. Multiple Implementation.pdb
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 2. Multiple Implementation\obj\Debug\netcoreapp2.1\Problem 2. Multiple Implementation.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 2. Multiple Implementation\obj\Debug\netcoreapp2.1\Problem 2. Multiple Implementation.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 2. Multiple Implementation\obj\Debug\netcoreapp2.1\Problem 2. Multiple Implementation.AssemblyInfo.cs
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 2. Multiple Implementation\obj\Debug\netcoreapp2.1\Problem 2. Multiple Implementation.dll
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 2. Multiple Implementation\obj\Debug\netcoreapp2.1\Problem 2. Multiple Implementation.pdb
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 2. Multiple Implementation\obj\Debug\netcoreapp2.1\Problem 2. Multiple Implementation.csprojAssemblyReference.cache

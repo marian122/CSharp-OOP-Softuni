@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 3. Ferrari\bin\Debug\netcoreapp2.1\Problem 3.Ferrari.deps.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 3. Ferrari\bin\Debug\netcoreapp2.1\Problem 3.Ferrari.runtimeconfig.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 3. Ferrari\bin\Debug\netcoreapp2.1\Problem 3.Ferrari.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 3. Ferrari\bin\Debug\netcoreapp2.1\Problem 3.Ferrari.dll
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 3. Ferrari\bin\Debug\netcoreapp2.1\Problem 3.Ferrari.pdb
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 3. Ferrari\obj\Debug\netcoreapp2.1\Problem 3.Ferrari.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 3. Ferrari\obj\Debug\netcoreapp2.1\Problem 3.Ferrari.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 3. Ferrari\obj\Debug\netcoreapp2.1\Problem 3.Ferrari.AssemblyInfo.cs
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 3. Ferrari\obj\Debug\netcoreapp2.1\Problem 3.Ferrari.dll
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem 3. Ferrari\obj\Debug\netcoreapp2.1\Problem 3.Ferrari.pdb

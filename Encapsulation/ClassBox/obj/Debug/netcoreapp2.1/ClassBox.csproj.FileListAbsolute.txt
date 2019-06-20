@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Encapsulation\ClassBox\bin\Debug\netcoreapp2.1\ClassBox.deps.json
+C:\Users\malek\source\repos\Encapsulation\ClassBox\bin\Debug\netcoreapp2.1\ClassBox.runtimeconfig.json
+C:\Users\malek\source\repos\Encapsulation\ClassBox\bin\Debug\netcoreapp2.1\ClassBox.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Encapsulation\ClassBox\bin\Debug\netcoreapp2.1\ClassBox.dll
+C:\Users\malek\source\repos\Encapsulation\ClassBox\bin\Debug\netcoreapp2.1\ClassBox.pdb
+C:\Users\malek\source\repos\Encapsulation\ClassBox\obj\Debug\netcoreapp2.1\ClassBox.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Encapsulation\ClassBox\obj\Debug\netcoreapp2.1\ClassBox.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Encapsulation\ClassBox\obj\Debug\netcoreapp2.1\ClassBox.AssemblyInfo.cs
+C:\Users\malek\source\repos\Encapsulation\ClassBox\obj\Debug\netcoreapp2.1\ClassBox.dll
+C:\Users\malek\source\repos\Encapsulation\ClassBox\obj\Debug\netcoreapp2.1\ClassBox.pdb
+C:\Users\malek\source\repos\Encapsulation\ClassBox\obj\Debug\netcoreapp2.1\ClassBox.csprojAssemblyReference.cache

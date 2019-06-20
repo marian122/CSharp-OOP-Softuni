@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\ExamPrepOOP\BankAcc\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.deps.json
+C:\Users\malek\source\repos\ExamPrepOOP\BankAcc\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.runtimeconfig.json
+C:\Users\malek\source\repos\ExamPrepOOP\BankAcc\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.runtimeconfig.dev.json
+C:\Users\malek\source\repos\ExamPrepOOP\BankAcc\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.dll
+C:\Users\malek\source\repos\ExamPrepOOP\BankAcc\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.pdb
+C:\Users\malek\source\repos\ExamPrepOOP\BankAcc\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\ExamPrepOOP\BankAcc\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\ExamPrepOOP\BankAcc\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfo.cs
+C:\Users\malek\source\repos\ExamPrepOOP\BankAcc\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.dll
+C:\Users\malek\source\repos\ExamPrepOOP\BankAcc\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.pdb
+C:\Users\malek\source\repos\ExamPrepOOP\BankAcc\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.csprojAssemblyReference.cache

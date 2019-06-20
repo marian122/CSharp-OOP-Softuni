@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\UnitTesting\ExtendedDatabase\bin\Debug\netcoreapp2.1\ExtendedDatabase.deps.json
+C:\Users\malek\source\repos\UnitTesting\ExtendedDatabase\bin\Debug\netcoreapp2.1\ExtendedDatabase.runtimeconfig.json
+C:\Users\malek\source\repos\UnitTesting\ExtendedDatabase\bin\Debug\netcoreapp2.1\ExtendedDatabase.runtimeconfig.dev.json
+C:\Users\malek\source\repos\UnitTesting\ExtendedDatabase\bin\Debug\netcoreapp2.1\ExtendedDatabase.dll
+C:\Users\malek\source\repos\UnitTesting\ExtendedDatabase\bin\Debug\netcoreapp2.1\ExtendedDatabase.pdb
+C:\Users\malek\source\repos\UnitTesting\ExtendedDatabase\obj\Debug\netcoreapp2.1\ExtendedDatabase.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\UnitTesting\ExtendedDatabase\obj\Debug\netcoreapp2.1\ExtendedDatabase.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\UnitTesting\ExtendedDatabase\obj\Debug\netcoreapp2.1\ExtendedDatabase.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\UnitTesting\ExtendedDatabase\obj\Debug\netcoreapp2.1\ExtendedDatabase.AssemblyInfo.cs
+C:\Users\malek\source\repos\UnitTesting\ExtendedDatabase\obj\Debug\netcoreapp2.1\ExtendedDatabase.dll
+C:\Users\malek\source\repos\UnitTesting\ExtendedDatabase\obj\Debug\netcoreapp2.1\ExtendedDatabase.pdb

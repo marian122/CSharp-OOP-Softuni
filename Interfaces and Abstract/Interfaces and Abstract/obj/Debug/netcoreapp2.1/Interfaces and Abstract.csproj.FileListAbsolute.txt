@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Interfaces and Abstract\Interfaces and Abstract\bin\Debug\netcoreapp2.1\Interfaces and Abstract.deps.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Interfaces and Abstract\bin\Debug\netcoreapp2.1\Interfaces and Abstract.runtimeconfig.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Interfaces and Abstract\bin\Debug\netcoreapp2.1\Interfaces and Abstract.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Interfaces and Abstract\bin\Debug\netcoreapp2.1\Interfaces and Abstract.dll
+C:\Users\malek\source\repos\Interfaces and Abstract\Interfaces and Abstract\bin\Debug\netcoreapp2.1\Interfaces and Abstract.pdb
+C:\Users\malek\source\repos\Interfaces and Abstract\Interfaces and Abstract\obj\Debug\netcoreapp2.1\Interfaces and Abstract.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Interfaces and Abstract\Interfaces and Abstract\obj\Debug\netcoreapp2.1\Interfaces and Abstract.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Interfaces and Abstract\Interfaces and Abstract\obj\Debug\netcoreapp2.1\Interfaces and Abstract.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Interfaces and Abstract\Interfaces and Abstract\obj\Debug\netcoreapp2.1\Interfaces and Abstract.AssemblyInfo.cs
+C:\Users\malek\source\repos\Interfaces and Abstract\Interfaces and Abstract\obj\Debug\netcoreapp2.1\Interfaces and Abstract.dll
+C:\Users\malek\source\repos\Interfaces and Abstract\Interfaces and Abstract\obj\Debug\netcoreapp2.1\Interfaces and Abstract.pdb

@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\RetakeAdvancedExam\first\bin\Debug\netcoreapp2.1\first.deps.json
+C:\Users\malek\source\repos\RetakeAdvancedExam\first\bin\Debug\netcoreapp2.1\first.runtimeconfig.json
+C:\Users\malek\source\repos\RetakeAdvancedExam\first\bin\Debug\netcoreapp2.1\first.runtimeconfig.dev.json
+C:\Users\malek\source\repos\RetakeAdvancedExam\first\bin\Debug\netcoreapp2.1\first.dll
+C:\Users\malek\source\repos\RetakeAdvancedExam\first\bin\Debug\netcoreapp2.1\first.pdb
+C:\Users\malek\source\repos\RetakeAdvancedExam\first\obj\Debug\netcoreapp2.1\first.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\RetakeAdvancedExam\first\obj\Debug\netcoreapp2.1\first.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\RetakeAdvancedExam\first\obj\Debug\netcoreapp2.1\first.AssemblyInfo.cs
+C:\Users\malek\source\repos\RetakeAdvancedExam\first\obj\Debug\netcoreapp2.1\first.dll
+C:\Users\malek\source\repos\RetakeAdvancedExam\first\obj\Debug\netcoreapp2.1\first.pdb
+C:\Users\malek\source\repos\RetakeAdvancedExam\first\obj\Debug\netcoreapp2.1\first.csprojAssemblyReference.cache

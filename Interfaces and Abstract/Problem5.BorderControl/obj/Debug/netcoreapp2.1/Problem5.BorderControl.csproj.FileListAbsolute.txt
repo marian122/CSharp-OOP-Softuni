@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem5.BorderControl\bin\Debug\netcoreapp2.1\Problem5.BorderControl.deps.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem5.BorderControl\bin\Debug\netcoreapp2.1\Problem5.BorderControl.runtimeconfig.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem5.BorderControl\bin\Debug\netcoreapp2.1\Problem5.BorderControl.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem5.BorderControl\bin\Debug\netcoreapp2.1\Problem5.BorderControl.dll
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem5.BorderControl\bin\Debug\netcoreapp2.1\Problem5.BorderControl.pdb
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem5.BorderControl\obj\Debug\netcoreapp2.1\Problem5.BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem5.BorderControl\obj\Debug\netcoreapp2.1\Problem5.BorderControl.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem5.BorderControl\obj\Debug\netcoreapp2.1\Problem5.BorderControl.AssemblyInfo.cs
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem5.BorderControl\obj\Debug\netcoreapp2.1\Problem5.BorderControl.dll
+C:\Users\malek\source\repos\Interfaces and Abstract\Problem5.BorderControl\obj\Debug\netcoreapp2.1\Problem5.BorderControl.pdb

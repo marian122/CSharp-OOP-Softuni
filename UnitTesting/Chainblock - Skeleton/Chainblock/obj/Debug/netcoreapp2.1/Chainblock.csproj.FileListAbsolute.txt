@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\UnitTesting\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.deps.json
+C:\Users\malek\source\repos\UnitTesting\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.runtimeconfig.json
+C:\Users\malek\source\repos\UnitTesting\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.runtimeconfig.dev.json
+C:\Users\malek\source\repos\UnitTesting\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.dll
+C:\Users\malek\source\repos\UnitTesting\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.pdb
+C:\Users\malek\source\repos\UnitTesting\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\UnitTesting\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\UnitTesting\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\UnitTesting\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.AssemblyInfo.cs
+C:\Users\malek\source\repos\UnitTesting\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.dll
+C:\Users\malek\source\repos\UnitTesting\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.pdb

@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\ExamPrepOOP\basics\bin\Debug\netcoreapp2.1\basics.deps.json
+C:\Users\malek\source\repos\ExamPrepOOP\basics\bin\Debug\netcoreapp2.1\basics.runtimeconfig.json
+C:\Users\malek\source\repos\ExamPrepOOP\basics\bin\Debug\netcoreapp2.1\basics.runtimeconfig.dev.json
+C:\Users\malek\source\repos\ExamPrepOOP\basics\bin\Debug\netcoreapp2.1\basics.dll
+C:\Users\malek\source\repos\ExamPrepOOP\basics\bin\Debug\netcoreapp2.1\basics.pdb
+C:\Users\malek\source\repos\ExamPrepOOP\basics\obj\Debug\netcoreapp2.1\basics.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\ExamPrepOOP\basics\obj\Debug\netcoreapp2.1\basics.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\ExamPrepOOP\basics\obj\Debug\netcoreapp2.1\basics.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\ExamPrepOOP\basics\obj\Debug\netcoreapp2.1\basics.AssemblyInfo.cs
+C:\Users\malek\source\repos\ExamPrepOOP\basics\obj\Debug\netcoreapp2.1\basics.dll
+C:\Users\malek\source\repos\ExamPrepOOP\basics\obj\Debug\netcoreapp2.1\basics.pdb

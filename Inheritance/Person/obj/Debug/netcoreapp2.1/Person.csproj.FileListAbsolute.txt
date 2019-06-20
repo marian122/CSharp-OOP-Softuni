@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Inheritance\Person\bin\Debug\netcoreapp2.1\Person.deps.json
+C:\Users\malek\source\repos\Inheritance\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.json
+C:\Users\malek\source\repos\Inheritance\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Inheritance\Person\bin\Debug\netcoreapp2.1\Person.dll
+C:\Users\malek\source\repos\Inheritance\Person\bin\Debug\netcoreapp2.1\Person.pdb
+C:\Users\malek\source\repos\Inheritance\Person\obj\Debug\netcoreapp2.1\Person.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Inheritance\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Inheritance\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfo.cs
+C:\Users\malek\source\repos\Inheritance\Person\obj\Debug\netcoreapp2.1\Person.dll
+C:\Users\malek\source\repos\Inheritance\Person\obj\Debug\netcoreapp2.1\Person.pdb
+C:\Users\malek\source\repos\Inheritance\Person\obj\Debug\netcoreapp2.1\Person.csprojAssemblyReference.cache

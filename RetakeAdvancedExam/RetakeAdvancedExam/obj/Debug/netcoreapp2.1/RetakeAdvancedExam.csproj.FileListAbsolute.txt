@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\RetakeAdvancedExam\RetakeAdvancedExam\bin\Debug\netcoreapp2.1\RetakeAdvancedExam.deps.json
+C:\Users\malek\source\repos\RetakeAdvancedExam\RetakeAdvancedExam\bin\Debug\netcoreapp2.1\RetakeAdvancedExam.runtimeconfig.json
+C:\Users\malek\source\repos\RetakeAdvancedExam\RetakeAdvancedExam\bin\Debug\netcoreapp2.1\RetakeAdvancedExam.runtimeconfig.dev.json
+C:\Users\malek\source\repos\RetakeAdvancedExam\RetakeAdvancedExam\bin\Debug\netcoreapp2.1\RetakeAdvancedExam.dll
+C:\Users\malek\source\repos\RetakeAdvancedExam\RetakeAdvancedExam\bin\Debug\netcoreapp2.1\RetakeAdvancedExam.pdb
+C:\Users\malek\source\repos\RetakeAdvancedExam\RetakeAdvancedExam\obj\Debug\netcoreapp2.1\RetakeAdvancedExam.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\RetakeAdvancedExam\RetakeAdvancedExam\obj\Debug\netcoreapp2.1\RetakeAdvancedExam.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\RetakeAdvancedExam\RetakeAdvancedExam\obj\Debug\netcoreapp2.1\RetakeAdvancedExam.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\RetakeAdvancedExam\RetakeAdvancedExam\obj\Debug\netcoreapp2.1\RetakeAdvancedExam.AssemblyInfo.cs
+C:\Users\malek\source\repos\RetakeAdvancedExam\RetakeAdvancedExam\obj\Debug\netcoreapp2.1\RetakeAdvancedExam.dll
+C:\Users\malek\source\repos\RetakeAdvancedExam\RetakeAdvancedExam\obj\Debug\netcoreapp2.1\RetakeAdvancedExam.pdb

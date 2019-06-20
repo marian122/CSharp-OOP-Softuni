@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Inheritance\MultipleInheritance\bin\Debug\netcoreapp2.1\MultipleInheritance.deps.json
+C:\Users\malek\source\repos\Inheritance\MultipleInheritance\bin\Debug\netcoreapp2.1\MultipleInheritance.runtimeconfig.json
+C:\Users\malek\source\repos\Inheritance\MultipleInheritance\bin\Debug\netcoreapp2.1\MultipleInheritance.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Inheritance\MultipleInheritance\bin\Debug\netcoreapp2.1\MultipleInheritance.dll
+C:\Users\malek\source\repos\Inheritance\MultipleInheritance\bin\Debug\netcoreapp2.1\MultipleInheritance.pdb
+C:\Users\malek\source\repos\Inheritance\MultipleInheritance\obj\Debug\netcoreapp2.1\MultipleInheritance.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Inheritance\MultipleInheritance\obj\Debug\netcoreapp2.1\MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Inheritance\MultipleInheritance\obj\Debug\netcoreapp2.1\MultipleInheritance.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Inheritance\MultipleInheritance\obj\Debug\netcoreapp2.1\MultipleInheritance.AssemblyInfo.cs
+C:\Users\malek\source\repos\Inheritance\MultipleInheritance\obj\Debug\netcoreapp2.1\MultipleInheritance.dll
+C:\Users\malek\source\repos\Inheritance\MultipleInheritance\obj\Debug\netcoreapp2.1\MultipleInheritance.pdb

@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Encapsulation\ValidationOfData\bin\Debug\netcoreapp2.1\ValidationOfData.deps.json
+C:\Users\malek\source\repos\Encapsulation\ValidationOfData\bin\Debug\netcoreapp2.1\ValidationOfData.runtimeconfig.json
+C:\Users\malek\source\repos\Encapsulation\ValidationOfData\bin\Debug\netcoreapp2.1\ValidationOfData.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Encapsulation\ValidationOfData\bin\Debug\netcoreapp2.1\ValidationOfData.dll
+C:\Users\malek\source\repos\Encapsulation\ValidationOfData\bin\Debug\netcoreapp2.1\ValidationOfData.pdb
+C:\Users\malek\source\repos\Encapsulation\ValidationOfData\obj\Debug\netcoreapp2.1\ValidationOfData.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Encapsulation\ValidationOfData\obj\Debug\netcoreapp2.1\ValidationOfData.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Encapsulation\ValidationOfData\obj\Debug\netcoreapp2.1\ValidationOfData.AssemblyInfo.cs
+C:\Users\malek\source\repos\Encapsulation\ValidationOfData\obj\Debug\netcoreapp2.1\ValidationOfData.dll
+C:\Users\malek\source\repos\Encapsulation\ValidationOfData\obj\Debug\netcoreapp2.1\ValidationOfData.pdb
+C:\Users\malek\source\repos\Encapsulation\ValidationOfData\obj\Debug\netcoreapp2.1\ValidationOfData.csprojAssemblyReference.cache
